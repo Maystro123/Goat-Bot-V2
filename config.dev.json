@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "roblox",
-  "prefix": "-",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -38,8 +38,8 @@
   "credentials": {
     "gmailAccount": {
       "email": "andylabaco@gmail.com",
-      "clientId": "664209477878-m0912l3sv1v8jfgkglgpu7lbb195cdlt.apps.googleusercontent.com",
-      "clientSecret": "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",
+      "clientId": "630364583635-0qteru5p2fos435a6174ujln194gt3ng.apps.googleusercontent.com",
+      "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
       "apiKey": ""
     },
